@@ -1,1 +1,10 @@
-
+[
+  {
+    "name": "My New Game",
+    "link": "https://drive.google.com/file/d/FILE_ID_HERE/view?usp=sharing"
+  },
+  {
+    "name": "Another Game",
+    "link": "https://drive.google.com/uc?export=download&id=FILE_ID_HERE"
+  }
+]
