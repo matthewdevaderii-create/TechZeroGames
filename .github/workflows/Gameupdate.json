@@ -1,10 +1,15 @@
  {
+  "launcherUpdate": {
+    "version": "2.3",
+    "url": "https://direct-link-to-your-new-launcher-file.html"
+  },
+  {
 
   "motd": {
 
     "date": "08-20-2026",
 
-    "message": "Welcome to V2.1! Check out the newly added Eaglercraft versions."
+    "message": "Update V2.1 available! Check out the newly added Eaglercraft versions."
 
   },
 
