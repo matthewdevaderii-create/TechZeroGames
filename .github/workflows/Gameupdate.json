@@ -1,44 +1,18 @@
- {
-  "launcherUpdate": {
-    "version": "2.3",
-    "url": "https://direct-link-to-your-new-launcher-file.html"
+[
+  {
+    "name": "Eaglercraft 1.12",
+    "link": "1DeCbVO_KG8ZKI_XMIwGDc6oPf3FYmvvh"
   },
   {
-
-  "motd": {
-
-    "date": "08-20-2026",
-
-    "message": "Update V2.1 available! Check out the newly added Eaglercraft versions."
-
+    "name": "Eaglercraft 1.8",
+    "link": "1MbufJcI4ZMVjQlr4lIGu-68n0HICEHEg"
   },
-
-  "games": [
-
-    {
-
-      "name": "(1.12.2) Newest Eaglercraft Version",
-
-      "link": "https://drive.google.com/file/d/1zF69eLsOaiQEN_FlP3WDRRcby-bzX5Fu/view?usp=drive_link"
-
-    },
-
-    {
-
-      "name": "(1.5.2) [OLD] Eaglercraft Version",
-
-      "link": "https://drive.google.com/file/d/18QC9C3hETHZUsXmPJIvOU5-7gVTFyIZL/view?usp=sharing" 
-
-    },
-
-    {
-
-      "name": "(1.8.8) Newest Eaglercraft Version",
-
-      "link": "https://drive.google.com/file/d/1rCQHsBHT56ad0JppIsl-cVmrlOZVA825/view?usp=drive_link"
-
-    }
-
-  ]
-
-} 
+  {
+    "name": "Eaglercraft 1.5",
+    "link": "198wkvwUYApwm1EM6xWhDZjPoEoFU0rWH"
+  },
+  {
+    "name": "Update to V2.1",
+    "link": "no"
+  }
+]
