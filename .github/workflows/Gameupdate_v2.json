@@ -1,0 +1,24 @@
+{
+  "launcherUpdate": {
+    "version": "2.3",
+    "url": "https://direct-link-to-your-new-launcher-file.html"
+  },
+  "motd": {
+    "date": "2026-08-22",
+    "message": "Welcome to the new launcher update! Enjoy the latest features."
+  },
+  "games": [
+    {
+      "name": "Eaglercraft 1.5",
+      "link": "198wkvwUYApwm1EM6xWhDZjPoEoFU0rWH"
+    },
+    {
+      "name": "Eaglercraft 1.8",
+      "link": "1MbufJcI4ZMVjQlr4lIGu-68n0HICEHEg"
+    },
+    {
+      "name": "Eaglercraft 1.12",
+      "link": "1DeCbVO_KG8ZKI_XMIwGDc6oPf3FYmvvh"
+    }
+  ]
+}
