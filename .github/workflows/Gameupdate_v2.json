@@ -7,8 +7,5 @@
     "date": "Sat, Sep 13, 2026",
     "message": "You should upgrade to v3! its much better and includes many more games (delete this launcher after installing v3)"
   },
-  "games": [
-    {
-    }
-  ]
+  "games": []
 }
