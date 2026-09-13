@@ -5,20 +5,10 @@
   },
   "motd": {
     "date": "Sat, Aug 22, 2026",
-    "message": "Welcome to the new launcher update! (V2.1) Enjoy the latest features."
+    "message": You should upgrade to v3! its much better and includes many more games (delete this launcher after installing v3)"
   },
   "games": [
     {
-      "name": "Eaglercraft 1.12.2 (newest)",
-      "link": "1DeCbVO_KG8ZKI_XMIwGDc6oPf3FYmvvh"
-    },
-    {
-      "name": "Eaglercraft 1.8 (newest)",
-      "link": "1MbufJcI4ZMVjQlr4lIGu-68n0HICEHEg"
-    },
-    {
-      "name": "Eaglercraft 1.5 (old)",
-      "link": "198wkvwUYApwm1EM6xWhDZjPoEoFU0rWH"
     }
   ]
 }
